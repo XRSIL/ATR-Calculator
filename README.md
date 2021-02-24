@@ -1,5 +1,6 @@
 # ATR-Calculator
-Program which calculates ATR of the stock or other financial instrument which is available on Yahoo! Finance. Information of usage its available in ReadMe file. 
+Program which calculates ATR of the stock or other financial instrument which is available on Yahoo! Finance. Information of usage its available in ReadMe file.
+Программа считает ATR акции или другого доступного на Yahoo! Finance финансового инструмента. Информации об использовании программы доступна в ReadMe.
 
 **EN**
 Program takes variable "Path", which is a path to directory, where all files aill be stored. Then user presses Enter, or button "Apply", to apply path' name. In the next text input area user types in stock symbol (i.e. stock symbol of company "Cisco Sytems" is "CSCO"), then user presses save to save ATR in .xlsx table. Down theres is toggle button that allows to choose time period for calculating ATR (by default program takes 1 month). Finally, when button "save" is clicked, program creates/updates two files: file with stock' historical data and ATR, and pivot table file, where are all of the companies and their calculated ATRs are stored.
