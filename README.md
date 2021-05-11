@@ -1,4 +1,6 @@
 # ATR-Calculator
+Not really clean code, my first fully python project
+
 Program which calculates ATR of the stock or other financial instrument which is available on Yahoo! Finance. Information of its usage available in ReadMe file.
 
 Программа считает ATR акции или другого доступного на Yahoo! Finance финансового инструмента. Информации об использовании программы доступна в ReadMe.
